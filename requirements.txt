@@ -1,0 +1,8 @@
+google==3.0.0
+google-cloud-storage==2.18.2
+google-generativeai==0.7.2
+grpcio-status==1.62.3
+openai==1.42.0
+pinecone-client==5.0.1
+pip-chill==1.0.3
+python-dotenv==1.0.1
